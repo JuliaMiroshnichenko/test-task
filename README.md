@@ -6,7 +6,9 @@
 
 Выглядеть должно примерно так:
 
-ссылка на макет Figma https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?node-id=0%3A1&t=0p2C6a3Xt8ekeK4g-0
+ссылка на макет Figma 
+
+https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?node-id=0%3A1&t=0p2C6a3Xt8ekeK4g-0
 
 прототип в PNG 
 
