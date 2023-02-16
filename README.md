@@ -1,2 +1,2 @@
-# test-task-
+# test-task
 Тестовое задание
